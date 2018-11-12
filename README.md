@@ -15,7 +15,7 @@ Kit UI = https://www.xdguru.com/free-xd-ui-kits/  & https://helpx.adobe.com/be_f
 ## Comment allons-nous procéder ? 
 
 ### 1) Petite mise en bouche (9h15 - 10h15)
-Nous allons dans un premier temps explorer les outils, créer des trucs simples à partir d'un exemple. 
+Nous allons dans un premier temps explorer les outils, créer des choses simples à partir d'un exemple. 
 Nous commencerons avec Figma de 9h15 à 9h45, et nous enchaînerons avec Adobe XD CC de 9h50 à 10h20.
 
 ### 2) Faire les liens entre les pages (10h25 - 11h00)
