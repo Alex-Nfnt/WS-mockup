@@ -28,4 +28,4 @@ Présentation : Ceux qui le désirent peuvent montrer leurs créations aux autre
 
 ### Défis à réaliser : 
 Durant l'après midi, le but sera de répondre à une demande en réalisant un moke-up. 
-La description des défis sera dans défi1.md et défi2.md.
+
