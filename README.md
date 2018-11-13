@@ -35,5 +35,6 @@ Créer un faux site web ou une fausse application cliquable de 11h20 à 12h00.
 Présentation : Ceux qui le désirent peuvent montrer leurs créations aux autres de 12h00 à 12h30. 
 
 ### Défis à réaliser : 
-Durant l'après midi, le but sera de répondre à une demande en réalisant un moke-up. 
+Durant l'après midi, le but sera de répondre à une demandeclient en réalisant un moke-up. 
+[Le projet](https://github.com/webmae/appoop)
 
