@@ -20,9 +20,9 @@ Nous commencerons avec Figma de 9h15 à 9h45, et nous enchaînerons avec Adobe X
 
 ##### Couleurs 
 Blue : 
-> dark - #1769AA
-> light - #2196F3
-> mid - #4DABF5
+Dark - #1769AA
+Light - #2196F3
+Mid - #4DABF5
 
 Pink : #F50057
 
